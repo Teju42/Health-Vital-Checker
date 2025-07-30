@@ -1,4 +1,3 @@
-# Health-Vital-Checker
 # 🩺 Fit Check: One Tap, Total Check
 
 Fit Check is a simple, interactive health checker web app that helps you assess your basic vitals in just one tap. Built with Python and Streamlit, it provides quick insights into common health parameters like blood pressure, sugar level, heart rate, and more.
@@ -35,6 +34,7 @@ Fit Check is a simple, interactive health checker web app that helps you assess 
 
 - [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
+
 
 ---
 
