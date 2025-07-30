@@ -26,7 +26,7 @@ Fit Check is a simple, interactive health checker web app that helps you assess 
 
 ## 📷 UI Preview
 
-> _Coming Soon_ – Add a screenshot of your app after deployment for a more visual README.
+<img width="1895" height="922" alt="image" src="https://github.com/user-attachments/assets/7c2caf28-70be-48ac-aa93-427d3c6ea1d3" />
 
 ---
 
